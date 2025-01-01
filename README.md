@@ -1,6 +1,14 @@
-## Hi there 👋
-Computer Science Engineering Student @RMDEngineeringCollege 26'
+## Hi there 👋 This is Surya,
+Computer Science Engineer @RMD 26'
 <img src="https://i.pinimg.com/originals/93/de/f6/93def6964d887005431cb95589c5ae3d.gif" align="right" width="370" height="290">
+- 🌱 I’m currently learning DSA
+- 🔭 Taking personal milestones to practice web design
+- 🤔 Looking for placement in web-designing sector
+
+How to reach me!!
+<br/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+
 
 <!--
 **buckysurya/buckysurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
