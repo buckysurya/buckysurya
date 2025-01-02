@@ -1,9 +1,9 @@
 ## Hi there 👋 This is Surya,
 Computer Science Engineer @RMD 26'
 <img src="https://i.pinimg.com/originals/93/de/f6/93def6964d887005431cb95589c5ae3d.gif" align="right" width="370" height="290">
-- 🌱 I’m currently learning DSA
-- 🔭 Taking personal milestones to practice web design
-- 🤔 Looking for placement in web-designing sector
+- 🌱 I’m currently learning DSA.
+- 🔭 Taking personal milestones to practice web design.
+- 🤔 Looking for placement in web-designing sector.
 
 How to reach me!!
 <br/>
