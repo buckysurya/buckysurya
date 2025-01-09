@@ -6,7 +6,7 @@ Computer Science Engineer @RMD 26'
 - 🔭 Looking for placement in web-designing sector.
 - 😄 Fun fact: wakateriyo nihongo.
 
-#### How to reach me!!
+#### How to reach me
 <br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surya-prakash-m-04a11725b/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surya.m3115@gmail.com)
