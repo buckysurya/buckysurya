@@ -12,6 +12,8 @@ Computer Science Engineer @RMD 26'
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:surya.m3115@gmail.com)
 <br/>
 ==Programming languages==
+<br/>
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />]
 
 
 
