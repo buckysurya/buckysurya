@@ -13,7 +13,7 @@ Computer Science Engineer @RMD 26'
 <br/>
 #### Programming languages
 <br/>
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />]
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 
 
