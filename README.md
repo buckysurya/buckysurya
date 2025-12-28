@@ -2,7 +2,8 @@
 Computer Science Engineer @RMD 26'
 <img src="https://i.pinimg.com/originals/93/de/f6/93def6964d887005431cb95589c5ae3d.gif" align="right" width="370" height="290">
 # 💫 About Me:
-🌱 I’m currently learning DSA.<br>⚡ Taking personal milestones to practice web design.<br>🔭 Looking for placement in web-designing sector.<br>😄 Fun fact: wakateriyo nihongo.
+🌱 I’m currently learning DSA.
+⚡ Taking personal milestones to practice web design.<br>🔭 Looking for placement in web-designing sector.<br>😄 Fun fact: wakateriyo nihongo.
 
 
 ## 🌐 Socials:
